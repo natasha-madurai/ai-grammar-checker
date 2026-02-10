@@ -23,6 +23,9 @@ This application checks grammar mistakes and rewrites text in a more professiona
 - NLP (rule-based)
 
 ---
+## 📸 App Screenshot
+
+![AI Grammar Checker App](assets/app_screenshot.png)
 
 
 
